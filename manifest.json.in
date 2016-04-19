@@ -1,0 +1,17 @@
+{
+    "name": "@APP_ID@",
+    "description": "description of WayFinder-bgtools",
+    "architecture": "@CLICK_ARCH@",
+    "title": "@APP_NAME@",
+    "hooks": {
+        "WayFinder-bgtools": {
+            "apparmor": "WayFinder-bgtools.apparmor",
+            "desktop":  "WayFinder-bgtools.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Benjamin Flanagin <bflanagin@vagueentertainment.com>",
+    "framework" : "ubuntu-sdk-15.04.4"
+}
+
+
