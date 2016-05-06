@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-16 15:32-0500\n"
+"POT-Creation-Date: 2016-05-04 23:24-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,35 +17,39 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../app/Main.qml:23
+#: ../app/Main.qml:25
 #: /home/benjamin/Projects/build-WayFinder-bgtools-Desktop-Default/po/WayFinder-bgtools.desktop.in.h:1
 msgid "WayFinder-bgtools"
 msgstr ""
 
-#: ../app/Main.qml:40
+#: ../app/Main.qml:42
 msgid "Hello.."
 msgstr ""
 
-#: ../app/Main.qml:52
+#: ../app/Main.qml:54
 msgid "Armor"
 msgstr ""
 
-#: ../app/Main.qml:54
+#: ../app/Main.qml:56
 msgid "Armor!"
 msgstr ""
 
-#: ../app/Main.qml:68
+#: ../app/Main.qml:70
 msgid "Weapons"
 msgstr ""
 
-#: ../app/Main.qml:70
+#: ../app/Main.qml:72
 msgid "Weapons!"
 msgstr ""
 
-#: ../app/Main.qml:84
+#: ../app/Main.qml:86
 msgid "Items"
 msgstr ""
 
-#: ../app/Main.qml:86
+#: ../app/Main.qml:88
 msgid "Items!"
+msgstr ""
+
+#: ../app/Main.qml:108
+msgid "Beasts"
 msgstr ""
